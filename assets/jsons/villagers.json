@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Pam",
+    "category": "villagers", 
+    "schedule": [
+      {
+        "scheduleTitle": "Spring 25", 
+        "timetable": [
+          {
+            "time": "8:00 AM",
+            "description": "Lounges on her couch in the trailer."
+          },
+          {
+            "time": "11:30 AM",
+            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+          },
+          {
+            "time": "1:30 PM",
+            "description": "Continues her checkup at the clinic."
+          },
+          {
+            "time": "4:00 PM",
+            "description": "Leaves the clinic and heads to the saloon."
+          },
+          {
+            "time": "12:00 AM",
+            "description": "Leaves the the saloon and heads home for the night."
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Regular Schedule (No Bus Service)", 
+        "timetable": [
+          {
+            "time": "8:00 AM",
+            "description": "Lounges on her couch in the trailer."
+          },
+          {
+            "time": "11:30 AM",
+            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+          },
+          {
+            "time": "1:30 PM",
+            "description": "Continues her checkup at the clinic."
+          },
+          {
+            "time": "4:00 PM",
+            "description": "Leaves the clinic and heads to the saloon."
+          },
+          {
+            "time": "12:00 AM",
+            "description": "Leaves the the saloon and heads home for the night."
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Regular Schedule (Bus Service Restored)", 
+        "timetable": [
+          {
+            "time": "8:00 AM",
+            "description": "Lounges on her couch in the trailer."
+          },
+          {
+            "time": "11:30 AM",
+            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+          },
+          {
+            "time": "1:30 PM",
+            "description": "Continues her checkup at the clinic."
+          },
+          {
+            "time": "4:00 PM",
+            "description": "Leaves the clinic and heads to the saloon."
+          },
+          {
+            "time": "12:00 AM",
+            "description": "Leaves the the saloon and heads home for the night."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "George",
+    "category": "villagers", 
+    "schedule": [
+      {
+        "scheduleTitle": "Spring 25", 
+        "timetable": [
+          {
+            "time": "8:00 AM",
+            "description": "Lounges on her couch in the trailer."
+          },
+          {
+            "time": "11:30 AM",
+            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+          },
+          {
+            "time": "1:30 PM",
+            "description": "Continues her checkup at the clinic."
+          },
+          {
+            "time": "4:00 PM",
+            "description": "Leaves the clinic and heads to the saloon."
+          },
+          {
+            "time": "12:00 AM",
+            "description": "Leaves the the saloon and heads home for the night."
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Regular Schedule (No Bus Service)", 
+        "timetable": [
+          {
+            "time": "8:00 AM",
+            "description": "Lounges on her couch in the trailer."
+          },
+          {
+            "time": "11:30 AM",
+            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+          },
+          {
+            "time": "1:30 PM",
+            "description": "Continues her checkup at the clinic."
+          },
+          {
+            "time": "4:00 PM",
+            "description": "Leaves the clinic and heads to the saloon."
+          },
+          {
+            "time": "12:00 AM",
+            "description": "Leaves the the saloon and heads home for the night."
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Regular Schedule (Bus Service Restored)", 
+        "timetable": [
+          {
+            "time": "8:00 AM",
+            "description": "Lounges on her couch in the trailer."
+          },
+          {
+            "time": "11:30 AM",
+            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+          },
+          {
+            "time": "1:30 PM",
+            "description": "Continues her checkup at the clinic."
+          },
+          {
+            "time": "4:00 PM",
+            "description": "Leaves the clinic and heads to the saloon."
+          },
+          {
+            "time": "12:00 AM",
+            "description": "Leaves the the saloon and heads home for the night."
+          }
+        ]
+      }
+    ]
+  }
+]
