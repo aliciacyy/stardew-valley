@@ -1,0 +1,8 @@
+<div class="villagers-container col-5">
+  <div class="list-group">
+    <a routerLink="./villager-details/{{villager.name}}" class="list-group-item list-group-item-action" 
+      *ngFor="let villager of villagers">
+        {{villager.name}}
+    </a>
+  </div>
+</div>

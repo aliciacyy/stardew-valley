@@ -1,0 +1,22 @@
+<div *ngIf="error">NO SUCH VILLAGER LAH</div>
+<div *ngIf="!error">
+  <p>
+  {{villager.name}} works!
+</p>
+
+<h4>Schedule</h4>
+
+<table class="table col-9 schedule-table" *ngFor="let schedule of villager.schedule">
+    <thead>
+      <tr>
+        <th colspan=2 scope="col">{{schedule.scheduleTitle}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let timetable of schedule.timetable">
+        <th scope="row">{{timetable.time}}</th>
+        <td>{{timetable.description}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
