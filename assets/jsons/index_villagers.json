@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pam",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Pam"
+  },
+  {
+    "name": "George",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/George"
+  }
+]
