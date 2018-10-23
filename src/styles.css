@@ -3,9 +3,11 @@
 .autocomplete {
     /*the container must be positioned relative:*/
     position: relative;
-    display: inline-block;
     margin-left: auto;
     width: 250px;
+    display: flex;
+    padding: .75rem 0 0 0;
+    align-items: center;
 }
 
 .autocomplete-items {
@@ -46,13 +48,17 @@
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
     background-color: transparent;
-    padding: .75rem 0 .55rem 0;
     height: auto;
+    padding: .25rem 0 .25rem 1.75rem;
 }
 
 #searchbox:focus {
     webkit-box-shadow: 0 1px 0 0 #4285f4;
     box-shadow: 0 1px 0 0 #4285f4;
     border-bottom: 1px solid #4285f4;
+}
+
+.search-icon {
+    position: absolute;
 }
 

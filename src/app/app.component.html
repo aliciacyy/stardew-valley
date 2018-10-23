@@ -7,16 +7,16 @@
 
         <ul id="sidebar-nav" class="list-unstyled components" #sidebar>
             <li [routerLinkActive]="['active']" [routerLinkActiveOptions]="{ exact: true }">
-                <a routerLink="/">Home</a>
+                <a routerLink="/"><i class="fas fa-home side-menu"></i>Home</a>
             </li>
             <li [routerLinkActive]="['active']" >
-                <a routerLink="/villagers" (click)="changeTitle('Villager')">Villagers</a>
+                <a routerLink="/villagers" (click)="changeTitle('Villager')"><i class="fas fa-users side-menu"></i>Villagers</a>
             </li>
             <li [routerLinkActive]="['active']">
-                <a routerLink="/shops" (click)="changeTitle('Shops')">Shops</a>
+                <a routerLink="/shops" (click)="changeTitle('Shops')"><i class="fas fa-shopping-cart side-menu"></i>Shops</a>
             </li>
             <li [routerLinkActive]="['active']">
-                <a routerLink="/fish" (click)="changeTitle('Fish')">Fish</a>
+                <a routerLink="/fish" (click)="changeTitle('Fish')"><i class="fas fa-fish side-menu"></i>Fish</a>
             </li>
         </ul>
     </nav>
@@ -29,6 +29,7 @@
                 </button>
 
                 <div class="autocomplete">
+                    <i class="fas fa-search search-icon"></i>
                   <input id="searchbox" type="text" class="form-control" placeholder="Search">
                 </div>
                 
@@ -39,9 +40,7 @@
         </div>
     </div>
 
-</div>
+    <!-- Dark Overlay element -->
+    <div class="overlay"></div>
 
-<nav>
-    
-  </nav>
-  
+</div>

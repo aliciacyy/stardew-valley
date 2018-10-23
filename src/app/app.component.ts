@@ -33,7 +33,17 @@ export class AppComponent implements OnInit{
       
       $('#sidebar-nav').on('click', 'li', function(event: any) {
         console.log(event.target.text);
+        if($(window).width() <= 768){
+          $('#sidebar').removeClass('active');
+      $('.overlay').removeClass('active');
+        }
     });
+
+    $('.overlay').on('click', function(event: any) {
+      $('#sidebar').removeClass('active');
+      $('.overlay').removeClass('active');
+    })
+    
   }
 
   @ViewChild(RouterLinkActive)
@@ -58,6 +68,7 @@ export class AppComponent implements OnInit{
 
   onClickMe() {
     $('#sidebar').toggleClass('active');
+    $('.overlay').toggleClass('active');
   };
 
 

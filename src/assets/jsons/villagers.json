@@ -2,160 +2,255 @@
   {
     "name": "Pam",
     "category": "villagers", 
+    "birthday": "Spring 18",
+    "loves": ["Beer", "Cactus Fruit", "Glazed Yams", "Mead", "Pale Ale", "Parsnip", "Parsnip Soup"],
+    "likes": ["Daffodil"],
     "schedule": [
       {
         "scheduleTitle": "Spring 25", 
-        "timetable": [
+        "timetables": [
           {
-            "time": "8:00 AM",
-            "description": "Lounges on her couch in the trailer."
-          },
-          {
-            "time": "11:30 AM",
-            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
-          },
-          {
-            "time": "1:30 PM",
-            "description": "Continues her checkup at the clinic."
-          },
-          {
-            "time": "4:00 PM",
-            "description": "Leaves the clinic and heads to the saloon."
-          },
-          {
-            "time": "12:00 AM",
-            "description": "Leaves the the saloon and heads home for the night."
+            "scheduleSubtitle": "",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Lounges on her couch in the trailer."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+              },
+              {
+                "time": "1:30 PM",
+                "description": "Continues her checkup at the clinic."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves the clinic and heads to the saloon."
+              },
+              {
+                "time": "12:00 AM",
+                "description": "Leaves the the saloon and heads home for the night."
+              }
+            ]
           }
         ]
       },
       {
         "scheduleTitle": "Regular Schedule (No Bus Service)", 
-        "timetable": [
+        "timetables": [
           {
-            "time": "8:00 AM",
-            "description": "Lounges on her couch in the trailer."
-          },
-          {
-            "time": "11:30 AM",
-            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
-          },
-          {
-            "time": "1:30 PM",
-            "description": "Continues her checkup at the clinic."
-          },
-          {
-            "time": "4:00 PM",
-            "description": "Leaves the clinic and heads to the saloon."
-          },
-          {
-            "time": "12:00 AM",
-            "description": "Leaves the the saloon and heads home for the night."
+            "scheduleSubtitle": "",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Lounges on her couch in the trailer."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Leaves the trailer and heads to JojaMart."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves JojaMart and heads to the saloon."
+              },
+              {
+                "time": "12:00 AM",
+                "description": "Leaves the the saloon and heads home for the night."
+              }
+            ]
           }
         ]
       },
       {
         "scheduleTitle": "Regular Schedule (Bus Service Restored)", 
-        "timetable": [
+        "timetables": [
           {
-            "time": "8:00 AM",
-            "description": "Lounges on her couch in the trailer."
-          },
-          {
-            "time": "11:30 AM",
-            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
-          },
-          {
-            "time": "1:30 PM",
-            "description": "Continues her checkup at the clinic."
-          },
-          {
-            "time": "4:00 PM",
-            "description": "Leaves the clinic and heads to the saloon."
-          },
-          {
-            "time": "12:00 AM",
-            "description": "Leaves the the saloon and heads home for the night."
+            "scheduleSubtitle": "",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Lounges on her couch in the trailer."
+              },
+              {
+                "time": "8:30 AM",
+                "description": "Leaves the trailer to head to the bus stop just east of the farm."
+              },
+              {
+                "time": "10:00 AM",
+                "description": "Arrives at the bus stop for the afternoon."
+              },
+              {
+                "time": "5:00 PM",
+                "description": "Leaves the bus stop and heads to the saloon."
+              },
+              {
+                "time": "12:00 AM",
+                "description": "Leaves the the saloon and heads home for the night."
+              }
+            ]
           }
         ]
       }
     ]
   },
   {
-    "name": "George",
+    "name": "Penny",
     "category": "villagers", 
+    "birthday": "Fall 2",
+    "loves": ["Diamond", "Emerald", "Melon", "Poppy", "Poppyseed Muffin", "Red Plate", "Roots Platter", "Sandfish", 
+    "Tom Kha Soup"],
+    "likes": ["Dandelion", "Leek"],
     "schedule": [
       {
-        "scheduleTitle": "Spring 25", 
-        "timetable": [
+        "scheduleTitle": "Spring", 
+        "timetables": [
           {
-            "time": "8:00 AM",
-            "description": "Lounges on her couch in the trailer."
+            "scheduleSubtitle": "Monday, Thursday, Sunday",
+            "timetable": [
+              {
+                "time": "8:10 AM",
+                "description": "Leaves her trailer and goes outside to read near the town graveyard."
+              },
+              {
+                "time": "12:30 PM",
+                "description": "Returns to the trailer to wash dishes."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves the trailer again to go outside the saloon where she sits on a bench with Maru."
+              },
+              {
+                "time": "6:40 PM",
+                "description": "Returns to her trailer for the evening."
+              }
+            ]
           },
           {
-            "time": "11:30 AM",
-            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+            "scheduleSubtitle": "Tuesday, Wednesday, Friday",
+            "timetable": [
+              {
+                "time": "9:00 AM",
+                "description": "Leaves her trailer and goes to the museum/library. Jas and Vincent join her there."
+              },
+              {
+                "time": "2:00 PM",
+                "description": "Leaves the library and stands near the Ice Cream Stand watching over Jas and Vincent."
+              },
+              {
+                "time": "4:20 PM",
+                "description": "Continues to Vincent's house and says goodbye."
+              },
+              {
+                "time": "5:50 PM",
+                "description": "Walks Jas the rest of the way home and says goodbye."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Returns to her trailer for the evening."
+              }
+            ]
           },
           {
-            "time": "1:30 PM",
-            "description": "Continues her checkup at the clinic."
-          },
-          {
-            "time": "4:00 PM",
-            "description": "Leaves the clinic and heads to the saloon."
-          },
-          {
-            "time": "12:00 AM",
-            "description": "Leaves the the saloon and heads home for the night."
+            "scheduleSubtitle": "Saturday",
+            "timetable": [
+              {
+                "time": "9:00 AM",
+                "description": "In her room."
+              },
+              {
+                "time": "10:00 AM",
+                "description": "Leaves her trailer to meet up with Jas and Vincent near the town graveyard."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Walks Jas and Vincent to the playground north of the plaza and watches them play."
+              },
+              {
+                "time": "5:00 PM",
+                "description": "Walks Jas and Vincent back to town and drops them off in front of Emily and Haley's house."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Returns to her trailer for the evening."
+              }
+            ]
           }
         ]
       },
       {
-        "scheduleTitle": "Regular Schedule (No Bus Service)", 
-        "timetable": [
+        "scheduleTitle": "Summer", 
+        "timetables": [
           {
-            "time": "8:00 AM",
-            "description": "Lounges on her couch in the trailer."
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:10 AM",
+                "description": "Wakes up and walks through town to stand by the river behind JojaMart."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Walks back through town and sits down next to the community center."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves town and returns to the trailer to do dishes."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to bed in her room in the trailer for the evening."
+              }
+            ]
           },
           {
-            "time": "11:30 AM",
-            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+            "scheduleSubtitle": "Sunny Weather",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves her trailer and walks into town."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Goes up to Carpenter's Shop and sits inside."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves Carpenter's Shop and returns to the trailer to do dishes."
+              },
+              {
+                "time": "9:00 PM",
+                "description": "Goes to bed in her room in the trailer for the evening."
+              }
+            ]
           },
           {
-            "time": "1:30 PM",
-            "description": "Continues her checkup at the clinic."
-          },
-          {
-            "time": "4:00 PM",
-            "description": "Leaves the clinic and heads to the saloon."
-          },
-          {
-            "time": "12:00 AM",
-            "description": "Leaves the the saloon and heads home for the night."
-          }
-        ]
-      },
-      {
-        "scheduleTitle": "Regular Schedule (Bus Service Restored)", 
-        "timetable": [
-          {
-            "time": "8:00 AM",
-            "description": "Lounges on her couch in the trailer."
-          },
-          {
-            "time": "11:30 AM",
-            "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
-          },
-          {
-            "time": "1:30 PM",
-            "description": "Continues her checkup at the clinic."
-          },
-          {
-            "time": "4:00 PM",
-            "description": "Leaves the clinic and heads to the saloon."
-          },
-          {
-            "time": "12:00 AM",
-            "description": "Leaves the the saloon and heads home for the night."
+            "scheduleSubtitle": "Monday (Sunny weather)",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Wakes up and walks through town to stand by the river behind JojaMart."
+              },
+              {
+                "time": "9:30 AM",
+                "description": "Watching the river behind JojaMart."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Walks back through town and to the community center."
+              },
+              {
+                "time": "2:30 PM",
+                "description": "Sitting on a bench to the right of the community center."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves town and returns to the trailer."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Arrives at the trailer for the evening."
+              }
+            ]
           }
         ]
       }
