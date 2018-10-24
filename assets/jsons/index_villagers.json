@@ -1,5 +1,10 @@
 [
   {
+    "name": "Alex",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Alex"
+  },
+  {
     "name": "Pam",
     "category": "villagers", 
     "path": "/villagers/villager-details/Pam"
