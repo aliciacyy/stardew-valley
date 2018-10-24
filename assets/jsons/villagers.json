@@ -525,6 +525,334 @@
     ]
   },
   {
+    "name": "Elliott",
+    "category": "villagers",
+    "birthday": "Fall 5",
+    "loves": [
+      "Crab Cakes",
+      "Duck Feather",
+      "Lobster",
+      "Pomegranate",
+      "Tom Kha Soup"
+    ],
+    "likes": [
+      "Octopus",
+      "Squid"
+    ],
+    "schedule": [
+      {
+        "scheduleTitle": "Spring",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Raining",
+            "timetable": [
+              {
+                "time": "All day",
+                "description": "Inside his house."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Thursday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home and heads to Pierre's General Store."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Leaves Pierre's and heads home."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Leaves his cabin to stand on the beach south of his house."
+              },
+              {
+                "time": "1:30 PM",
+                "description": "Leaves the beach and returns to his cabin."
+              },
+              {
+                "time": "3:00 PM",
+                "description": "Leaves his cabin to stand on the bridge just north of the beach."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves the bridge to return home for the night."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Summer",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Tuesday the 9th",
+            "timetable": [
+              {
+                "time": "10:30 AM",
+                "description": "Leaves his house and goes to the Clinic."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves the clinic and returns home for the night."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Raining",
+            "timetable": [
+              {
+                "time": "All day",
+                "description": "Inside his house."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Thursday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home and heads to Pierre's General Store."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Leaves Pierre's and heads home."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Friday, Sunday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Leaves his cabin to stand on the beach south of his house."
+              },
+              {
+                "time": "1:30 PM",
+                "description": "Leaves the beach and returns to his cabin."
+              },
+              {
+                "time": "3:00 PM",
+                "description": "Leaves his cabin to stand on the bridge just north of the beach."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves the bridge to return home for the night."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Fall",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Raining",
+            "timetable": [
+              {
+                "time": "All day",
+                "description": "Inside his house."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Thursday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home and heads to Pierre's General Store."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Leaves Pierre's and heads home."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Friday, Sunday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Leaves his cabin to stand on the beach south of his house."
+              },
+              {
+                "time": "1:30 PM",
+                "description": "Leaves the beach and returns to his cabin."
+              },
+              {
+                "time": "3:00 PM",
+                "description": "Leaves his cabin to stand on the bridge just north of the beach."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves the bridge to return home for the night."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home, heads to the Library."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Leaves the library to return home for the night."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Winter",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Raining",
+            "timetable": [
+              {
+                "time": "All day",
+                "description": "Inside his house."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Wednesday the 17th",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home, heads to the Library."
+              },
+              {
+                "time": "4:50 PM",
+                "description": "Leaves the library to attend the Night Market."
+              },
+              {
+                "time": "1:00 AM",
+                "description": "Leaves the Night Market and returns to his cabin."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Thursday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home and heads to Pierre's General Store."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Leaves Pierre's and heads home."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Friday, Sunday",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Leaves his cabin to stand on the beach south of his house."
+              },
+              {
+                "time": "1:30 PM",
+                "description": "Leaves the beach and returns to his cabin."
+              },
+              {
+                "time": "3:00 PM",
+                "description": "Leaves his cabin to stand on the bridge just north of the beach."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves the bridge to return home for the night."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "At home."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Leaves home, heads to the Library."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Leaves the library to return home for the night."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Marriage",
+        "timetables": [
+          {
+            "scheduleSubtitle": "",
+            "timetable": [
+              {
+                "time": "8:30 AM",
+                "description": "Leaves the Farmhouse and heads to the beach."
+              },
+              {
+                "time": "5:00 PM",
+                "description": "Leaves the beach and heads home to the farm."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Pam",
     "category": "villagers", 
     "birthday": "Spring 18",

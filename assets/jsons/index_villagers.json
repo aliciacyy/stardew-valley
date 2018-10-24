@@ -5,6 +5,11 @@
     "path": "/villagers/villager-details/Alex"
   },
   {
+    "name": "Elliott",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Elliott"
+  },
+  {
     "name": "Pam",
     "category": "villagers", 
     "path": "/villagers/villager-details/Pam"
