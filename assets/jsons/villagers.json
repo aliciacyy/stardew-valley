@@ -1,5 +1,530 @@
 [
   {
+    "name": "Alex",
+    "category": "villagers",
+    "birthday": "Summer 13",
+    "loves": [
+      "Complete Breakfast",
+      "Salmon Dinner"
+    ],
+    "likes": [
+      "Eggs"
+    ],
+    "schedule": [
+      {
+        "scheduleTitle": "Spring",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Rainy Day",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves his room and stands in the entryway."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Goes to his room to lift weights."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves his room to go stand outside by the dog pen."
+              },
+              {
+                "time": "4:20 PM",
+                "description": "Arrives next to the dog pen."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by the dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Wednesday (if player has less than 6 hearts with Haley)",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaving his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Goes to Haley and Emily's house."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Inside Haley and Emily's house."
+              },
+              {
+                "time": "4:30 PM",
+                "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+              },
+              {
+                "time": "5:10 PM",
+                "description": "Standing by the dog pen."
+              },
+              {
+                "time": "6:40 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "8:20 AM",
+                "description": "Arrives next to the tree."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Leaves the tree to go back to his room."
+              },
+              {
+                "time": "1:20 PM",
+                "description": "Arrives in his room and lifts weights."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves his room to go stand outside by the dog pen."
+              },
+              {
+                "time": "4:20 PM",
+                "description": "Arrives next to the dog pen."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Summer",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Tuesday the 16th",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaving his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "10:30 AM",
+                "description": "Goes to clinic."
+              },
+              {
+                "time": "11:00 AM",
+                "description": "In clinic waiting room."
+              },
+              {
+                "time": "1:40 PM",
+                "description": "Clinic examination room."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Heads home."
+              },
+              {
+                "time": "4:50 PM",
+                "description": "Standing in his room"
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Rainy Day",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves his room and stands in the entryway."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Goes to his room to lift weights."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves his house to go stand by the dog pen."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by the dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Wednesday (if the player has less than 6 hearts with Haley)",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaving his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Goes to Haley and Emily's house."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Inside Haley and Emily's house."
+              },
+              {
+                "time": "4:30 PM",
+                "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+              },
+              {
+                "time": "5:10 PM",
+                "description": "Standing by the dog pen."
+              },
+              {
+                "time": "6:40 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "7:50 AM",
+                "description": "Leaves home to go to the beach."
+              },
+              {
+                "time": "8:30 AM",
+                "description": "On the beach."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Leaving beach to go work at ice cream stand."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Working at ice cream stand next to museum/library."
+              },
+              {
+                "time": "5:00 PM",
+                "description": "Heads home."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "At home, lifting weights in his room."
+              },
+              {
+                "time": "7:00 PM",
+                "description": "Goes to stand in front entryway of house."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room to stand by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Fall",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Rainy Day",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves his room and stands in the entryway."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Goes to his room to lift weights."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves his house to go stand by the dog pen."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by the dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Wednesday (if the player has less than 6 hearts with Haley)",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaving his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Goes to Haley and Emily's house."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Inside Haley and Emily's house."
+              },
+              {
+                "time": "4:30 PM",
+                "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+              },
+              {
+                "time": "5:10 PM",
+                "description": "Standing by the dog pen."
+              },
+              {
+                "time": "6:40 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "8:20 AM",
+                "description": "Arrives next to the tree."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Leaves the tree to go back to his room."
+              },
+              {
+                "time": "1:20 PM",
+                "description": "Arrives in his room and lifts weights."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves his room to go stand outside by the dog pen."
+              },
+              {
+                "time": "4:20 PM",
+                "description": "Arrives next to the dog pen."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Winter",
+        "timetables": [
+          {
+            "scheduleSubtitle": "Wednesday (if the player has less than 6 hearts with Haley)",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaving his room to go outside and stand beneath nearby tree."
+              },
+              {
+                "time": "12:00 PM",
+                "description": "Goes to Haley and Emily's house."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Inside Haley and Emily's house."
+              },
+              {
+                "time": "4:30 PM",
+                "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+              },
+              {
+                "time": "5:10 PM",
+                "description": "Standing by the dog pen."
+              },
+              {
+                "time": "6:40 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Wednesday (if the player has 6+ hearts with Haley)",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Exits his house and stands beneath the tree to the right of his house."
+              },
+              {
+                "time": "1:00 PM",
+                "description": "Re-enters his house and goes to his room to lift weights."
+              },
+              {
+                "time": "4:00 PM",
+                "description": "Leaves his house to go stand by the dog pen."
+              },
+              {
+                "time": "6:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "8:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          },
+          {
+            "scheduleSubtitle": "Regular Schedule",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "In his bedroom."
+              },
+              {
+                "time": "9:00 AM",
+                "description": "Leaves his house to go to the spa."
+              },
+              {
+                "time": "11:30 AM",
+                "description": "Arrives at the spam and spends time in the men's locker room working out."
+              },
+              {
+                "time": "3:00 PM",
+                "description": "Leaves the gym section of the spa, heads home to his room."
+              },
+              {
+                "time": "5:30 PM",
+                "description": "Stands in his bedroom."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Leaves his room to go stand outside by the dog pen."
+              },
+              {
+                "time": "7:30 PM",
+                "description": "Goes back into his house and stands in the entryway."
+              },
+              {
+                "time": "9:00 PM",
+                "description": "Goes to his room and stands by his dresser."
+              },
+              {
+                "time": "10:30 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scheduleTitle": "Marriage",
+        "timetables": [
+          {
+            "scheduleSubtitle": "",
+            "timetable": [
+              {
+                "time": "8:00 AM",
+                "description": "Leaves farm to go to town."
+              },
+              {
+                "time": "10:00 AM",
+                "description": "Arrives at Granparents' House and stands in kitchen."
+              },
+              {
+                "time": "6:00 PM",
+                "description": "Heads back to farm."
+              },
+              {
+                "time": "7:30 PM",
+                "description": "Arrives back at farmhouse."
+              },
+              {
+                "time": "10:00 PM",
+                "description": "Goes to bed."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Pam",
     "category": "villagers", 
     "birthday": "Spring 18",
