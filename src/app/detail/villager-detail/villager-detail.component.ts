@@ -30,6 +30,16 @@ export class VillagerDetailComponent implements OnInit {
     
   }
 
+  getImage(name:String) {
+    if (name != null) {}
+      return this.dataService.getImage(name);
+  }
+
+  objectKeys(obj) {
+    if (obj != null)
+      return Object.keys(obj);
+}
+
   ngOnInit() {
     /* var name = this.route.snapshot.paramMap.get('name');
       this.dataService.getVillagers().subscribe(villagers => {

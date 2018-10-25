@@ -2,6 +2,9 @@ import { Schedule } from './schedule';
 
 export class Villager {
     name: string;
+    birthday: string;
     category: string;
-    schedule: Schedule;
+    loves: string[];
+    likes: string[];
+    schedule: Schedule[];
 }

@@ -33,7 +33,7 @@ export class AppComponent implements OnInit{
       
       $('#sidebar-nav').on('click', 'li', function(event: any) {
         console.log(event.target.text);
-        if($(window).width() <= 768){
+        if($(window).width() <= 1024){
           $('#sidebar').removeClass('active');
       $('.overlay').removeClass('active');
         }

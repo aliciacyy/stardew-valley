@@ -1,6 +1,6 @@
-import { Timetable } from './timetable';
+import { Timetables } from './timetables';
 
 export class Schedule {
     scheduleTitle: String;
-    timetable: Timetable;
+    timetables: Timetables[];
   }

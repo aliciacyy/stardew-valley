@@ -1,12 +1,27 @@
 [
   {
+    "name": "Alex",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Alex"
+  },
+  {
+    "name": "Elliott",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Elliott"
+  },
+  {
+    "name": "Harvey",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Harvey"
+  },
+  {
     "name": "Pam",
     "category": "villagers", 
     "path": "/villagers/villager-details/Pam"
   },
   {
-    "name": "George",
+    "name": "Penny",
     "category": "villagers", 
-    "path": "/villagers/villager-details/George"
+    "path": "/villagers/villager-details/Penny"
   }
 ]

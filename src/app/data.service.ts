@@ -24,4 +24,8 @@ export class DataService {
     return this.http.get<any[]>(this.relativePath + '/assets/jsons/index_villagers.json');
   }
 
+  getImage(name: String) : String{
+    return this.relativePath + '/assets/img/' + name + '.png';
+  }
+
 }

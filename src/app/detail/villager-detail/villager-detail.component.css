@@ -3,3 +3,30 @@
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
+.detail-label {
+    font-weight: bold;
+}
+.schedule-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    background: #bdbdbd;
+    cursor: pointer;
+}
+.villager-heading {
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    padding: 10px;
+}
+.label-icon {
+    margin-right: 8px;
+}
+.villager-row {
+    margin-bottom: .5rem;
+}
