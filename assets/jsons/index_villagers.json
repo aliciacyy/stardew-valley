@@ -23,5 +23,20 @@
     "name": "Penny",
     "category": "villagers", 
     "path": "/villagers/villager-details/Penny"
+  },
+  {
+    "name": "Sam",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sam"
+  },
+  {
+    "name": "Sebastian",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sebastian"
+  },
+  {
+    "name": "Shane",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Shane"
   }
 ]
