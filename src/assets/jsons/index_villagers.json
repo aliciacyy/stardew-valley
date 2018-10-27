@@ -1,5 +1,10 @@
 [
   {
+    "name": "Abigail",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Abigail"
+  },
+  {
     "name": "Alex",
     "category": "villagers", 
     "path": "/villagers/villager-details/Alex"
@@ -8,6 +13,16 @@
     "name": "Elliott",
     "category": "villagers", 
     "path": "/villagers/villager-details/Elliott"
+  },
+  {
+    "name": "Emily",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Emily"
+  },
+  {
+    "name": "Haley",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Haley"
   },
   {
     "name": "Harvey",
@@ -23,5 +38,20 @@
     "name": "Penny",
     "category": "villagers", 
     "path": "/villagers/villager-details/Penny"
+  },
+  {
+    "name": "Sam",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sam"
+  },
+  {
+    "name": "Sebastian",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sebastian"
+  },
+  {
+    "name": "Shane",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Shane"
   }
 ]

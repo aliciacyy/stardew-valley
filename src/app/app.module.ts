@@ -9,6 +9,8 @@ import { ShopsComponent } from './shops/shops.component';
 import { FishComponent } from './fish/fish.component';
 import { VillagerDetailComponent } from './detail/villager-detail/villager-detail.component';
 import { HomeComponent } from './home/home.component';
+import { MatExpansionModule } from '@angular/material/expansion';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { HomeComponent } from './home/home.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    MatExpansionModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

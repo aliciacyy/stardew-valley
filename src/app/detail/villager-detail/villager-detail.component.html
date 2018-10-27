@@ -20,25 +20,32 @@
 <p></p>
 
 <h4>Schedule</h4>
+<mat-accordion>
+<div *ngFor="let i of objectKeys(villager.schedule)" class="timetable">
+  <div class="timetable-section col-md-12 col-sm-12 col-lg-9">
+      <mat-expansion-panel [expanded]="false">
+          <mat-expansion-panel-header>
+        <div class="schedule-title">{{villager.schedule[i].scheduleTitle}}</div>
+        </mat-expansion-panel-header>
+          <table class="table schedule-table" *ngFor="let j of objectKeys(villager.schedule[i].timetables)">
+              <thead class="thead-light">
+                <tr>
+                  <th colspan=2 scope="col" *ngIf="villager.schedule[i].timetables[j].scheduleSubtitle != ''">{{villager.schedule[i].timetables[j].scheduleSubtitle}}</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let tt of villager.schedule[i].timetables[j].timetable">
+                  <th class="timetable-time">{{tt.time}}</th>
+                  <td class="timetable-descrption">{{tt.description}}</td>
+                </tr>
+              </tbody>
+            </table>
+          </mat-expansion-panel>
 
-<div *ngFor="let i of objectKeys(villager.schedule)">
-  <div class="schedule-title col-md-12 col-sm-12 col-lg-9">{{villager.schedule[i].scheduleTitle}}</div>
-  <div>
-    <table class="table col-md-12 col-sm-12 col-lg-9 schedule-table" *ngFor="let j of objectKeys(villager.schedule[i].timetables)">
-        <thead class="thead-light">
-          <tr>
-            <th colspan=2 scope="col" *ngIf="villager.schedule[i].timetables[j].scheduleSubtitle != ''">{{villager.schedule[i].timetables[j].scheduleSubtitle}}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr *ngFor="let tt of villager.schedule[i].timetables[j].timetable">
-            <th scope="row">{{tt.time}}</th>
-            <td>{{tt.description}}</td>
-          </tr>
-        </tbody>
-      </table>
   </div>
+ 
     
 </div>
+</mat-accordion>
 
 </div>

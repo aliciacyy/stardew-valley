@@ -1,3 +1,4 @@
+
 .schedule-table {
     background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);
@@ -11,9 +12,7 @@
     font-weight: bold;
     text-align: center;
     padding: 8px;
-    border: 1px solid #ccc;
     border-bottom: none;
-    background: #bdbdbd;
     cursor: pointer;
 }
 .villager-heading {
@@ -29,4 +28,22 @@
 }
 .villager-row {
     margin-bottom: .5rem;
+}
+.mat-expansion-panel-header {
+    padding-left: 0px;
+}
+.mat-expansion-panel-body {
+    padding: 0px;
+}
+.timetable-section {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.timetable-time {
+    width: 15%;
+}
+@media (max-width: 1024px) {
+    .timetable-time {
+        width: 30%;
+    }
 }

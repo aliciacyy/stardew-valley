@@ -1,8 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ViewChildren, OnInit, QueryList } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { HttpClient } from '@angular/common/http'; 
 import { Villager } from '../../vo/villager';
 import { DataService } from '../../data.service';
+import {MatExpansionPanel} from "@angular/material";
 
 @Component({
   selector: 'app-villager-detail',
@@ -14,6 +15,7 @@ export class VillagerDetailComponent implements OnInit {
   villager : Villager = new Villager;
   villagers : any;
   error = false;
+  @ViewChildren(MatExpansionPanel) viewPanels: QueryList<MatExpansionPanel>;
   
   constructor(private route : ActivatedRoute, private http: HttpClient, private dataService : DataService) { 
     route.params.subscribe(val => {
@@ -25,6 +27,7 @@ export class VillagerDetailComponent implements OnInit {
           this.error = true;
         }
         console.log(this.villager);
+        this.viewPanels.forEach(p => p.close());
       });
     })
     
