@@ -1,5 +1,10 @@
 [
   {
+    "name": "Abigail",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Abigail"
+  },
+  {
     "name": "Alex",
     "category": "villagers", 
     "path": "/villagers/villager-details/Alex"
@@ -8,6 +13,11 @@
     "name": "Elliott",
     "category": "villagers", 
     "path": "/villagers/villager-details/Elliott"
+  },
+  {
+    "name": "Emily",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Emily"
   },
   {
     "name": "Harvey",
