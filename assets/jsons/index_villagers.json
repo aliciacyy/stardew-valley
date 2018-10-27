@@ -30,6 +30,16 @@
     "path": "/villagers/villager-details/Harvey"
   },
   {
+    "name": "Leah",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Leah"
+  },
+  {
+    "name": "Maru",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Maru"
+  },
+  {
     "name": "Pam",
     "category": "villagers", 
     "path": "/villagers/villager-details/Pam"
