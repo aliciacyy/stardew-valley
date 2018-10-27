@@ -20,6 +20,11 @@
     "path": "/villagers/villager-details/Emily"
   },
   {
+    "name": "Haley",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Haley"
+  },
+  {
     "name": "Harvey",
     "category": "villagers", 
     "path": "/villagers/villager-details/Harvey"
