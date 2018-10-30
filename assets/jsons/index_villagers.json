@@ -65,9 +65,24 @@
     "path": "/villagers/villager-details/Jas"
   },
   {
+    "name": "Jodi",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Jodi"
+  },
+  {
+    "name": "Kent",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Kent"
+  },
+  {
     "name": "Leah",
     "category": "villagers", 
     "path": "/villagers/villager-details/Leah"
+  },
+  {
+    "name": "Lewis",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Lewis"
   },
   {
     "name": "Maru",
