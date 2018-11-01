@@ -23,7 +23,6 @@ a:focus {
     background: #fff;
     border: none;
     border-radius: 0;
-    margin-bottom: 20px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
@@ -155,6 +154,7 @@ a.article:hover {
     width: 100%;
     min-height: 100vh;
     transition: all 0.3s;
+    background: #F5F5F5;
 }
 
 #content-body {

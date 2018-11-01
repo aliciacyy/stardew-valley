@@ -16,6 +16,7 @@ export class VillagerDetailComponent implements OnInit {
   villagers : any;
   error = false;
   @ViewChildren(MatExpansionPanel) viewPanels: QueryList<MatExpansionPanel>;
+  scrollTo : any;
   
   constructor(private route : ActivatedRoute, private http: HttpClient, private dataService : DataService) { 
     route.params.subscribe(val => {
@@ -36,6 +37,15 @@ export class VillagerDetailComponent implements OnInit {
   getImage(name:String) {
     if (name != null) {}
       return this.dataService.getImage(name);
+  }
+
+  toTop($event) {
+    this.scrollTo = $event.target;
+  }
+
+  openGroup() {
+    console.log(this.scrollTo);
+    this.scrollTo.scrollIntoView({behavior:"smooth", block:"start"});
   }
 
   objectKeys(obj) {

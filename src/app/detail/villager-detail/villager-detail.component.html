@@ -22,9 +22,9 @@
 <h4>Schedule</h4>
 <mat-accordion>
 <div *ngFor="let i of objectKeys(villager.schedule)" class="timetable">
-  <div class="timetable-section col-md-12 col-sm-12 col-lg-9">
-      <mat-expansion-panel [expanded]="false">
-          <mat-expansion-panel-header>
+  <div class="timetable-section col-md-12 col-sm-12 col-lg-9" (click)="toTop($event)">
+      <mat-expansion-panel [expanded]="false" (afterExpand)="openGroup()">
+          <mat-expansion-panel-header [collapsedHeight]="'100%'" [expandedHeight]="'100%'">
         <div class="schedule-title">{{villager.schedule[i].scheduleTitle}}</div>
         </mat-expansion-panel-header>
           <table class="table schedule-table" *ngFor="let j of objectKeys(villager.schedule[i].timetables)">

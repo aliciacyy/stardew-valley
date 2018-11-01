@@ -10,6 +10,21 @@
     "path": "/villagers/villager-details/Alex"
   },
   {
+    "name": "Caroline",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Caroline"
+  },
+  {
+    "name": "Clint",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Clint"
+  },
+  {
+    "name": "Demetrius",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Demetrius"
+  },
+  {
     "name": "Elliott",
     "category": "villagers", 
     "path": "/villagers/villager-details/Elliott"
@@ -20,6 +35,21 @@
     "path": "/villagers/villager-details/Emily"
   },
   {
+    "name": "Evelyn",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Evelyn"
+  },
+  {
+    "name": "George",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/George"
+  },
+  {
+    "name": "Gus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Gus"
+  },
+  {
     "name": "Haley",
     "category": "villagers", 
     "path": "/villagers/villager-details/Haley"
@@ -28,6 +58,36 @@
     "name": "Harvey",
     "category": "villagers", 
     "path": "/villagers/villager-details/Harvey"
+  },
+  {
+    "name": "Jas",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Jas"
+  },
+  {
+    "name": "Jodi",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Jodi"
+  },
+  {
+    "name": "Kent",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Kent"
+  },
+  {
+    "name": "Leah",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Leah"
+  },
+  {
+    "name": "Lewis",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Lewis"
+  },
+  {
+    "name": "Maru",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Maru"
   },
   {
     "name": "Pam",

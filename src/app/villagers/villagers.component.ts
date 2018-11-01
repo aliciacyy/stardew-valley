@@ -11,6 +11,8 @@ export class VillagersComponent implements OnInit {
 
   villagers: any;
   relativePath: String = '';
+  bachelors: ['Alex', 'Elliott', 'Harvey', 'Sam', 'Sebastian', 'Shane'];
+  bachelorettes: ['Abigail', 'Emily', 'Haley', 'Leah', 'Maru', 'Penny'];
 
   constructor(private http: HttpClient, private dataService : DataService) { 
     
