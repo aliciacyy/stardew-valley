@@ -85,6 +85,16 @@
     "path": "/villagers/villager-details/Lewis"
   },
   {
+    "name": "Linus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Linus"
+  },
+  {
+    "name": "Marnie",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Marnie"
+  },
+  {
     "name": "Maru",
     "category": "villagers", 
     "path": "/villagers/villager-details/Maru"
@@ -100,6 +110,16 @@
     "path": "/villagers/villager-details/Penny"
   },
   {
+    "name": "Pierre",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Pierre"
+  },
+  {
+    "name": "Robin",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Robin"
+  },
+  {
     "name": "Sam",
     "category": "villagers", 
     "path": "/villagers/villager-details/Sam"
@@ -113,5 +133,15 @@
     "name": "Shane",
     "category": "villagers", 
     "path": "/villagers/villager-details/Shane"
+  },
+  {
+    "name": "Vincent",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Vincent"
+  },
+  {
+    "name": "Willy",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Willy"
   }
 ]
