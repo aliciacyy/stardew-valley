@@ -25,6 +25,11 @@
     "path": "/villagers/villager-details/Demetrius"
   },
   {
+    "name": "Dwarf",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Dwarf"
+  },
+  {
     "name": "Elliott",
     "category": "villagers", 
     "path": "/villagers/villager-details/Elliott"
@@ -73,6 +78,11 @@
     "name": "Kent",
     "category": "villagers", 
     "path": "/villagers/villager-details/Kent"
+  },
+  {
+    "name": "Krobus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Krobus"
   },
   {
     "name": "Leah",
@@ -125,6 +135,11 @@
     "path": "/villagers/villager-details/Sam"
   },
   {
+    "name": "Sandy",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sandy"
+  },
+  {
     "name": "Sebastian",
     "category": "villagers", 
     "path": "/villagers/villager-details/Sebastian"
@@ -143,5 +158,10 @@
     "name": "Willy",
     "category": "villagers", 
     "path": "/villagers/villager-details/Willy"
+  },
+  {
+    "name": "Wizard",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Wizard"
   }
 ]
