@@ -25,6 +25,11 @@
     "path": "/villagers/villager-details/Demetrius"
   },
   {
+    "name": "Dwarf",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Dwarf"
+  },
+  {
     "name": "Elliott",
     "category": "villagers", 
     "path": "/villagers/villager-details/Elliott"
@@ -75,6 +80,11 @@
     "path": "/villagers/villager-details/Kent"
   },
   {
+    "name": "Krobus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Krobus"
+  },
+  {
     "name": "Leah",
     "category": "villagers", 
     "path": "/villagers/villager-details/Leah"
@@ -83,6 +93,16 @@
     "name": "Lewis",
     "category": "villagers", 
     "path": "/villagers/villager-details/Lewis"
+  },
+  {
+    "name": "Linus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Linus"
+  },
+  {
+    "name": "Marnie",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Marnie"
   },
   {
     "name": "Maru",
@@ -100,9 +120,24 @@
     "path": "/villagers/villager-details/Penny"
   },
   {
+    "name": "Pierre",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Pierre"
+  },
+  {
+    "name": "Robin",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Robin"
+  },
+  {
     "name": "Sam",
     "category": "villagers", 
     "path": "/villagers/villager-details/Sam"
+  },
+  {
+    "name": "Sandy",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sandy"
   },
   {
     "name": "Sebastian",
@@ -113,5 +148,20 @@
     "name": "Shane",
     "category": "villagers", 
     "path": "/villagers/villager-details/Shane"
+  },
+  {
+    "name": "Vincent",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Vincent"
+  },
+  {
+    "name": "Willy",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Willy"
+  },
+  {
+    "name": "Wizard",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Wizard"
   }
 ]

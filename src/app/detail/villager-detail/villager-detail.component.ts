@@ -17,6 +17,9 @@ export class VillagerDetailComponent implements OnInit {
   error = false;
   @ViewChildren(MatExpansionPanel) viewPanels: QueryList<MatExpansionPanel>;
   scrollTo : any;
+  noSchedules: Array<String> = ['Dwarf', 'Krobus', 'Sandy', 'Wizard', 'Gus'];
+  universalLove: any;
+  universalLike: any;
   
   constructor(private route : ActivatedRoute, private http: HttpClient, private dataService : DataService) { 
     route.params.subscribe(val => {
@@ -28,15 +31,21 @@ export class VillagerDetailComponent implements OnInit {
           this.error = true;
         }
         console.log(this.villager);
+        this.universalLove = this.villager.loves.shift();
+        this.universalLike = this.villager.likes.shift();
         this.viewPanels.forEach(p => p.close());
       });
     })
     
   }
 
+  hasSchedule(name: String) {
+    return !(this.noSchedules.indexOf(name) > -1);
+  }
+
   getImage(name:String) {
     if (name != null) {}
-      return this.dataService.getImage(name);
+      return this.dataService.getVillagerImage(name);
   }
 
   toTop($event) {

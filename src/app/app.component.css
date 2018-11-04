@@ -138,6 +138,17 @@ a.article:hover {
     justify-content: initial;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: calc(100% - 250px);
+  z-index: 10;
+}
+
+.sticky + #content-body {
+    padding-top: 70px;
+  }
+
 .page-title {
     margin-left: 20px;
     font-size: 20px;
@@ -145,6 +156,10 @@ a.article:hover {
 
 .side-menu.fas {
     margin-right: 8px;
+}
+.side-icon-container {
+    width: 32px;
+    display: inline-block;
 }
 /* ---------------------------------------------------
     CONTENT STYLE
@@ -207,6 +222,9 @@ a.article:hover {
         display: block;
         opacity: 1;
     }
+    .sticky {
+        width: 100%;
+      }
 
 }
 

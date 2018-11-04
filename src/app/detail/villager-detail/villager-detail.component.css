@@ -4,6 +4,16 @@
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
+.wiki-link {
+    margin-bottom: 8px;
+}
+.popover-link {
+    cursor: pointer;
+    color: #007bff;
+}
+.popover-link:hover {
+    color: #0056b3;
+}
 .detail-label {
     font-weight: bold;
 }

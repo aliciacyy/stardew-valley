@@ -1,3 +1,36 @@
-<p>
-  fish works!
-</p>
+<h4>Fish</h4>
+<input type="text" class="form-control" [(ngModel)]="filterText" id="filterFish" placeholder="Filter" >
+<div class="fish-container">
+  <table class="table table-hover">
+    <thead>
+        <tr>
+          <th></th>
+          <th scope="col">Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Fisher Price</th>
+          <th scope="col">Angler Price</th>
+          <th scope="col">Location</th>
+          <th scope="col">Time</th>
+          <th scope="col">Season</th>
+          <th scope="col">Weather</th>
+          <th scope="col">Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let fish of fishes | filter:filterText" (click)="openWiki(fish.name)">
+          <td>
+            <img class="fish-icon" [src]="getImage(fish.name)">
+          </td>
+          <th scope="row">{{fish.name}}</th>
+          <td>{{fish.basePrice}}</td>
+          <td>{{fish.fisherPrice}}</td>
+          <td>{{fish.anglerPrice}}</td>
+          <td>{{fish.location}}</td>
+          <td>{{fish.time}}</td>
+          <td>{{fish.season}}</td>
+          <td>{{fish.weather}}</td>
+          <td>{{fish.type}}</td>
+        </tr>
+      </tbody>
+  </table>
+</div>

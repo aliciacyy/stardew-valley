@@ -7,22 +7,25 @@
 
         <ul id="sidebar-nav" class="list-unstyled components" #sidebar>
             <li [routerLinkActive]="['active']" [routerLinkActiveOptions]="{ exact: true }">
-                <a routerLink="/"><i class="fas fa-home side-menu"></i>Home</a>
+                <a routerLink="/"><span class="side-icon-container"><i class="fas fa-home side-menu"></i></span>Home</a>
             </li>
             <li [routerLinkActive]="['active']" >
-                <a routerLink="/villagers" (click)="changeTitle('Villager')"><i class="fas fa-users side-menu"></i>Villagers</a>
+                <a routerLink="/villagers" (click)="changeTitle('Villager')"><span class="side-icon-container"><i class="fas fa-users side-menu"></i></span>Villagers</a>
             </li>
             <li [routerLinkActive]="['active']">
-                <a routerLink="/shops" (click)="changeTitle('Shops')"><i class="fas fa-shopping-cart side-menu"></i>Shops</a>
+                <a routerLink="/calendar" (click)="changeTitle('Calendar')"><span class="side-icon-container"><i class="fas fa-calendar-alt side-menu"></i></span>Calendar</a>
             </li>
             <li [routerLinkActive]="['active']">
-                <a routerLink="/fish" (click)="changeTitle('Fish')"><i class="fas fa-fish side-menu"></i>Fish</a>
+                <a routerLink="/shops" (click)="changeTitle('Shops')"><span class="side-icon-container"><i class="fas fa-shopping-cart side-menu"></i></span>Shops</a>
+            </li>
+            <li [routerLinkActive]="['active']">
+                <a routerLink="/fish" (click)="changeTitle('Fish')"><span class="side-icon-container"><i class="fas fa-fish side-menu"></i></span>Fish</a>
             </li>
         </ul>
     </nav>
 
     <div id="content">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <button type="button" id="sidebarCollapse" class="btn btn-info" (click)="onClickMe()">
                     <i class="fas fa-align-left"></i>

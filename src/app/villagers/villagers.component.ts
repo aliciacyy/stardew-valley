@@ -18,8 +18,13 @@ export class VillagersComponent implements OnInit {
     
   }
 
+  getVillagerIcon(name:String) {
+    if (name != null) {}
+      return this.dataService.getVillagerIcon(name);
+  }
+
   ngOnInit() {
-    this.dataService.getVillagers().subscribe(villagers => this.villagers = villagers);
+    this.dataService.getVillagersIndex().subscribe(villagers => this.villagers = villagers);
     /*if (window.location.href.indexOf("stardew-valley") > -1) {
       this.relativePath = '/stardew-valley';
     }

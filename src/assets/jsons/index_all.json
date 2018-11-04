@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Abigail",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Abigail"
+  },
+  {
+    "name": "Alex",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Alex"
+  },
+  {
+    "name": "Caroline",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Caroline"
+  },
+  {
+    "name": "Clint",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Clint"
+  },
+  {
+    "name": "Demetrius",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Demetrius"
+  },
+  {
+    "name": "Dwarf",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Dwarf"
+  },
+  {
+    "name": "Elliott",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Elliott"
+  },
+  {
+    "name": "Emily",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Emily"
+  },
+  {
+    "name": "Evelyn",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Evelyn"
+  },
+  {
+    "name": "George",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/George"
+  },
+  {
+    "name": "Gus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Gus"
+  },
+  {
+    "name": "Haley",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Haley"
+  },
+  {
+    "name": "Harvey",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Harvey"
+  },
+  {
+    "name": "Jas",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Jas"
+  },
+  {
+    "name": "Jodi",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Jodi"
+  },
+  {
+    "name": "Kent",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Kent"
+  },
+  {
+    "name": "Krobus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Krobus"
+  },
+  {
+    "name": "Leah",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Leah"
+  },
+  {
+    "name": "Lewis",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Lewis"
+  },
+  {
+    "name": "Linus",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Linus"
+  },
+  {
+    "name": "Marnie",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Marnie"
+  },
+  {
+    "name": "Maru",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Maru"
+  },
+  {
+    "name": "Pam",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Pam"
+  },
+  {
+    "name": "Penny",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Penny"
+  },
+  {
+    "name": "Pierre",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Pierre"
+  },
+  {
+    "name": "Robin",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Robin"
+  },
+  {
+    "name": "Sam",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sam"
+  },
+  {
+    "name": "Sandy",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sandy"
+  },
+  {
+    "name": "Sebastian",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Sebastian"
+  },
+  {
+    "name": "Shane",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Shane"
+  },
+  {
+    "name": "Vincent",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Vincent"
+  },
+  {
+    "name": "Willy",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Willy"
+  },
+  {
+    "name": "Wizard",
+    "category": "villagers", 
+    "path": "/villagers/villager-details/Wizard"
+  },
+  {
+    "category": "fish", 
+    "path": "/fish/Pufferfish", 
+    "name": "Pufferfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Anchovy", 
+    "name": "Anchovy"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Tuna", 
+    "name": "Tuna"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sardine", 
+    "name": "Sardine"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Bream", 
+    "name": "Bream"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Largemouth Bass", 
+    "name": "Largemouth Bass"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Smallmouth Bass", 
+    "name": "Smallmouth Bass"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Rainbow Trout", 
+    "name": "Rainbow Trout"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Salmon", 
+    "name": "Salmon"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Walleye", 
+    "name": "Walleye"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Perch", 
+    "name": "Perch"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Carp", 
+    "name": "Carp"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Catfish", 
+    "name": "Catfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Pike", 
+    "name": "Pike"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sunfish", 
+    "name": "Sunfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Red Mullet", 
+    "name": "Red Mullet"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Herring", 
+    "name": "Herring"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Eel", 
+    "name": "Eel"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Octopus", 
+    "name": "Octopus"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Red Snapper", 
+    "name": "Red Snapper"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Squid", 
+    "name": "Squid"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sea Cucumber", 
+    "name": "Sea Cucumber"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Super Cucumber", 
+    "name": "Super Cucumber"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Ghostfish", 
+    "name": "Ghostfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Stonefish", 
+    "name": "Stonefish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Ice Pip", 
+    "name": "Ice Pip"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Lava Eel", 
+    "name": "Lava Eel"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sandfish", 
+    "name": "Sandfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Scorpion Carp", 
+    "name": "Scorpion Carp"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sturgeon", 
+    "name": "Sturgeon"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Tiger Trout", 
+    "name": "Tiger Trout"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Bullhead", 
+    "name": "Bullhead"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Tilapia", 
+    "name": "Tilapia"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Chub", 
+    "name": "Chub"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Dorado", 
+    "name": "Dorado"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Albacore", 
+    "name": "Albacore"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Shad", 
+    "name": "Shad"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Lingcod", 
+    "name": "Lingcod"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Halibut", 
+    "name": "Halibut"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Woodskip", 
+    "name": "Woodskip"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Void Salmon", 
+    "name": "Void Salmon"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Slimejack", 
+    "name": "Slimejack"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Midnight Squid", 
+    "name": "Midnight Squid"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Spook Fish", 
+    "name": "Spook Fish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Blobfish", 
+    "name": "Blobfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Crimsonfish", 
+    "name": "Crimsonfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Angler", 
+    "name": "Angler"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Legend", 
+    "name": "Legend"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Glacierfish", 
+    "name": "Glacierfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Mutant Carp", 
+    "name": "Mutant Carp"
+  }
+]

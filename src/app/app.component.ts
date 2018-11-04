@@ -13,6 +13,7 @@ export class AppComponent implements OnInit{
   title = 'stardew-valley';
   pageTitle : String = 'aaa';
   villagerIndex : any[];
+  fishIndex: any[];
 
   constructor(private router: Router, private dataService : DataService) {
   }
@@ -44,6 +45,23 @@ export class AppComponent implements OnInit{
       $('.overlay').removeClass('active');
     })
     
+    // When the user scrolls the page, execute myFunction 
+    window.onscroll = function() {onScroll()};
+
+    // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+    function onScroll() {
+      // Get the navbar
+      var navbar = document.getElementById("navbar");
+
+      // Get the offset position of the navbar
+      var sticky = navbar.offsetTop;
+      if (window.pageYOffset > sticky) {
+        navbar.classList.add("sticky")
+      } else {
+        navbar.classList.remove("sticky");
+      }
+    }
+
   }
 
   @ViewChild(RouterLinkActive)

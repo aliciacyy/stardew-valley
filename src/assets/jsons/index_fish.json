@@ -1,0 +1,252 @@
+[
+  {
+    "category": "fish", 
+    "path": "/fish/Pufferfish", 
+    "name": "Pufferfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Anchovy", 
+    "name": "Anchovy"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Tuna", 
+    "name": "Tuna"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sardine", 
+    "name": "Sardine"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Bream", 
+    "name": "Bream"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Largemouth Bass", 
+    "name": "Largemouth Bass"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Smallmouth Bass", 
+    "name": "Smallmouth Bass"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Rainbow Trout", 
+    "name": "Rainbow Trout"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Salmon", 
+    "name": "Salmon"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Walleye", 
+    "name": "Walleye"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Perch", 
+    "name": "Perch"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Carp", 
+    "name": "Carp"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Catfish", 
+    "name": "Catfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Pike", 
+    "name": "Pike"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sunfish", 
+    "name": "Sunfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Red Mullet", 
+    "name": "Red Mullet"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Herring", 
+    "name": "Herring"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Eel", 
+    "name": "Eel"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Octopus", 
+    "name": "Octopus"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Red Snapper", 
+    "name": "Red Snapper"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Squid", 
+    "name": "Squid"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sea Cucumber", 
+    "name": "Sea Cucumber"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Super Cucumber", 
+    "name": "Super Cucumber"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Ghostfish", 
+    "name": "Ghostfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Stonefish", 
+    "name": "Stonefish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Ice Pip", 
+    "name": "Ice Pip"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Lava Eel", 
+    "name": "Lava Eel"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sandfish", 
+    "name": "Sandfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Scorpion Carp", 
+    "name": "Scorpion Carp"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Sturgeon", 
+    "name": "Sturgeon"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Tiger Trout", 
+    "name": "Tiger Trout"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Bullhead", 
+    "name": "Bullhead"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Tilapia", 
+    "name": "Tilapia"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Chub", 
+    "name": "Chub"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Dorado", 
+    "name": "Dorado"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Albacore", 
+    "name": "Albacore"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Shad", 
+    "name": "Shad"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Lingcod", 
+    "name": "Lingcod"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Halibut", 
+    "name": "Halibut"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Woodskip", 
+    "name": "Woodskip"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Void Salmon", 
+    "name": "Void Salmon"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Slimejack", 
+    "name": "Slimejack"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Midnight Squid", 
+    "name": "Midnight Squid"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Spook Fish", 
+    "name": "Spook Fish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Blobfish", 
+    "name": "Blobfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Crimsonfish", 
+    "name": "Crimsonfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Angler", 
+    "name": "Angler"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Legend", 
+    "name": "Legend"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Glacierfish", 
+    "name": "Glacierfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Mutant Carp", 
+    "name": "Mutant Carp"
+  }
+]

@@ -6,14 +6,17 @@ import { ShopsComponent } from './shops/shops.component';
 import { FishComponent } from './fish/fish.component';
 import { VillagerDetailComponent } from './detail/villager-detail/villager-detail.component';
 import { HomeComponent } from './home/home.component';
+import { CalendarComponent } from './calendar/calendar.component';
 
 //{ path: '', redirectTo: '', pathMatch: 'full' },
 const routes: Routes = [
   { path: '', component: HomeComponent},
   { path: 'villagers', component: VillagersComponent },
   { path: 'villagers/villager-details/:name', component: VillagerDetailComponent },
+  { path: 'calendar', component: CalendarComponent },
   { path: 'shops', component: ShopsComponent },
   { path: 'fish', component: FishComponent },
+  { path: 'fish/:name', component: FishComponent },
   { path: '**', redirectTo: ''}
 ];
 

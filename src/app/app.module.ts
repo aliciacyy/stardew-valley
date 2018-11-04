@@ -11,7 +11,12 @@ import { VillagerDetailComponent } from './detail/villager-detail/villager-detai
 import { HomeComponent } from './home/home.component';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatCardModule } from '@angular/material/card';
+import { MatTabsModule } from '@angular/material/tabs';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { CalendarComponent } from './calendar/calendar.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { FormsModule } from '@angular/forms';
+import { FilterPipe } from './pipe/filter.pipe';
 
 @NgModule({
   declarations: [
@@ -20,7 +25,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     ShopsComponent,
     FishComponent,
     VillagerDetailComponent,
-    HomeComponent
+    HomeComponent,
+    CalendarComponent,
+    FilterPipe
   ],
   imports: [
     BrowserModule,
@@ -28,7 +35,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     HttpClientModule,
     MatExpansionModule,
     BrowserAnimationsModule,
-    MatCardModule
+    MatCardModule,
+    MatTabsModule,
+    NgbModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
