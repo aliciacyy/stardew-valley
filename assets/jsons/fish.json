@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Pufferfish", 
+    "season": "Summer", 
+    "basePrice": "200g, 250g, 300g", 
+    "fisherPrice": "250g, 312g, 375g", 
+    "anglerPrice": "300g, 375g, 450g", 
+    "weather": "Sun", 
+    "location": "Ocean", 
+    "time": "12pm - 4pm"
+  }, 
+  {
+    "name": "Anchovy", 
+    "season": "Spring, Fall", 
+    "basePrice": "30g, 37g, 45g", 
+    "fisherPrice": "37g, 46g, 56g", 
+    "anglerPrice": "45g, 56g, 67g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Tuna", 
+    "season": "Summer, Winter", 
+    "basePrice": "100g, 125g, 150g", 
+    "fisherPrice": "125g, 156g, 187g", 
+    "anglerPrice": "150g, 187g, 225g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Sardine", 
+    "season": "Spring, Fall, Winter", 
+    "basePrice": "40g, 50g, 60g", 
+    "fisherPrice": "50g, 62g, 75g", 
+    "anglerPrice": "60g, 75g, 90g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Bream", 
+    "season": "All Seasons", 
+    "basePrice": "45g, 56g, 67g", 
+    "fisherPrice": "56g, 70g, 84g", 
+    "anglerPrice": "67g, 84g, 101g", 
+    "weather": "Any", 
+    "location": "River (Town+Forest)", 
+    "time": "6pm - 2am"
+  }, 
+  {
+    "name": "Largemouth Bass", 
+    "season": "All Seasons", 
+    "basePrice": "100g, 125g, 150g", 
+    "fisherPrice": "125g, 156g, 187g", 
+    "anglerPrice": "150g, 187g, 225g", 
+    "weather": "Any", 
+    "location": "Mountain Lake", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Smallmouth Bass", 
+    "season": "Spring, Fall", 
+    "basePrice": "50g, 62g, 75g", 
+    "fisherPrice": "62g, 78g, 93g", 
+    "anglerPrice": "75g, 93g, 112g", 
+    "weather": "Any", 
+    "location": "River (Town)Forest PondRiverland Farm", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Rainbow Trout", 
+    "season": "Summer", 
+    "basePrice": "65g, 81g, 97g", 
+    "fisherPrice": "81g, 101g, 121g", 
+    "anglerPrice": "97g, 121g, 146g", 
+    "weather": "Sun", 
+    "location": "River (Town+Forest)Mountain Lake", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Salmon", 
+    "season": "Fall", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "River (Town+Forest)", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Walleye", 
+    "season": "Fall, Winter with Rain Totem", 
+    "basePrice": "105g, 131g, 157g", 
+    "fisherPrice": "131g, 164g, 196g", 
+    "anglerPrice": "157g, 196g, 236g", 
+    "weather": "Rain", 
+    "location": "River (Town+Forest)Forest PondMountain Lake", 
+    "time": "12pm - 2am"
+  }, 
+  {
+    "name": "Perch", 
+    "season": "Winter", 
+    "basePrice": "55g, 68g, 82g", 
+    "fisherPrice": "68g, 85g, 103g", 
+    "anglerPrice": "82g, 103g, 123g", 
+    "weather": "Any", 
+    "location": "River (Town+Forest)Forest PondMountain Lake", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Carp", 
+    "season": "All Seasons", 
+    "basePrice": "30g, 37g, 45g", 
+    "fisherPrice": "37g, 46g, 56g", 
+    "anglerPrice": "45g, 56g, 67g", 
+    "weather": "Any", 
+    "location": "Mountain LakeSecret Woods PondThe Sewers", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Catfish", 
+    "season": "Spring, Fall(, Spring &, Summer in Secret Woods Pond)", 
+    "basePrice": "200g, 250g, 300g", 
+    "fisherPrice": "250g, 312g, 375g", 
+    "anglerPrice": "300g, 375g, 450g", 
+    "weather": "Rain", 
+    "location": "River (Town+Forest)Secret Woods PondWitch's Swamp", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Pike", 
+    "season": "Summer, Winter", 
+    "basePrice": "100g, 125g, 150g", 
+    "fisherPrice": "125g, 156g, 187g", 
+    "anglerPrice": "150g, 187g, 225g", 
+    "weather": "Any", 
+    "location": "River (Town+Forest)Forest Pond", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Sunfish", 
+    "season": "Spring, Summer", 
+    "basePrice": "30g, 37g, 45g", 
+    "fisherPrice": "37g, 46g, 56g", 
+    "anglerPrice": "45g, 56g, 67g", 
+    "weather": "Sun, Wind", 
+    "location": "River (Town+Forest)Forest Farm", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Red Mullet", 
+    "season": "Summer, Winter", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Herring", 
+    "season": "Spring, Winter", 
+    "basePrice": "30g, 37g, 45g", 
+    "fisherPrice": "37g, 46g, 56g", 
+    "anglerPrice": "45g, 56g, 67g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Eel", 
+    "season": "Spring, Fall", 
+    "basePrice": "85g, 106g, 127g", 
+    "fisherPrice": "106g, 132g, 159g", 
+    "anglerPrice": "127g, 159g, 191g", 
+    "weather": "Rain", 
+    "location": "Ocean", 
+    "time": "4pm - 2am"
+  }, 
+  {
+    "name": "Octopus", 
+    "season": "Summer", 
+    "basePrice": "150g, 187g, 225g", 
+    "fisherPrice": "187g, 234g, 281g", 
+    "anglerPrice": "225g, 281g, 337g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 1pm"
+  }, 
+  {
+    "name": "Red Snapper", 
+    "season": "Summer, Fall, Winter with Rain Totem", 
+    "basePrice": "50g, 62g, 75g", 
+    "fisherPrice": "62g, 78g, 93g", 
+    "anglerPrice": "75g, 93g, 112g", 
+    "weather": "Rain", 
+    "location": "Ocean", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Squid", 
+    "season": "Winter", 
+    "basePrice": "80g, 100g, 120g", 
+    "fisherPrice": "100g, 125g, 150g", 
+    "anglerPrice": "120g, 150g, 180g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6pm - 2am"
+  }, 
+  {
+    "name": "Sea Cucumber", 
+    "season": "Fall, Winter", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Super Cucumber", 
+    "season": "Summer, Fall", 
+    "basePrice": "250g, 312g, 375g", 
+    "fisherPrice": "312g, 390g, 468g", 
+    "anglerPrice": "375g, 468g, 562g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6pm - 2am"
+  }, 
+  {
+    "name": "Ghostfish", 
+    "season": "All Seasons", 
+    "basePrice": "45g, 56g, 67g", 
+    "fisherPrice": "56g, 70g, 84g", 
+    "anglerPrice": "67g, 84g, 101g", 
+    "weather": "Any", 
+    "location": "Mines (20, 60)Ghost drops", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Stonefish", 
+    "season": "All Seasons", 
+    "basePrice": "300g, 375g, 450g", 
+    "fisherPrice": "375g, 468g, 562g", 
+    "anglerPrice": "450g, 562g, 675g", 
+    "weather": "Any", 
+    "location": "Mine 20FRequires fishing level 3", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Ice Pip", 
+    "season": "All Seasons", 
+    "basePrice": "500g, 625g, 750g", 
+    "fisherPrice": "625g, 781g, 937g", 
+    "anglerPrice": "750g, 937g, 1125g", 
+    "weather": "Any", 
+    "location": "Mine 60FRequires fishing level 5", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Lava Eel", 
+    "season": "All Seasons", 
+    "basePrice": "700g, 875g, 1050g", 
+    "fisherPrice": "875g, 1093g, 1312g", 
+    "anglerPrice": "1050g, 1312g, 1575g", 
+    "weather": "Any", 
+    "location": "Mine 100FRequires fishing level 7", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Sandfish", 
+    "season": "All Seasons", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "The Desert", 
+    "time": "6am - 8pm"
+  }, 
+  {
+    "name": "Scorpion Carp", 
+    "season": "All Seasons", 
+    "basePrice": "150g, 187g, 225g", 
+    "fisherPrice": "187g, 234g, 281g", 
+    "anglerPrice": "225g, 281g, 337g", 
+    "weather": "Any", 
+    "location": "The DesertRequires fishing level 4", 
+    "time": "6am - 8pm"
+  }, 
+  {
+    "name": "Sturgeon", 
+    "season": "Summer, Winter", 
+    "basePrice": "200g, 250g, 300g", 
+    "fisherPrice": "250g, 312g, 375g", 
+    "anglerPrice": "300g, 375g, 450g", 
+    "weather": "Any", 
+    "location": "Mountain Lake", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Tiger Trout", 
+    "season": "Fall, Winter", 
+    "basePrice": "150g, 187g, 225g", 
+    "fisherPrice": "187g, 234g, 281g", 
+    "anglerPrice": "225g, 281g, 337g", 
+    "weather": "Any", 
+    "location": "River (Town+Forest)", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Bullhead", 
+    "season": "All Seasons", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "Mountain Lake", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Tilapia", 
+    "season": "Summer, Fall", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 2pm"
+  }, 
+  {
+    "name": "Chub", 
+    "season": "All Seasons", 
+    "basePrice": "50g, 62g, 75g", 
+    "fisherPrice": "62g, 78g, 93g", 
+    "anglerPrice": "75g, 93g, 112g", 
+    "weather": "Any", 
+    "location": "River (Forest)Mountain Lake", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Dorado", 
+    "season": "Summer", 
+    "basePrice": "100g, 125g, 150g", 
+    "fisherPrice": "125g, 156g, 187g", 
+    "anglerPrice": "150g, 187g, 225g", 
+    "weather": "Any", 
+    "location": "River (Forest)", 
+    "time": "6am - 7pm"
+  }, 
+  {
+    "name": "Albacore", 
+    "season": "Fall, Winter", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 11am6pm - 2am"
+  }, 
+  {
+    "name": "Shad", 
+    "season": "Spring, Summer, Fall", 
+    "basePrice": "60g, 75g, 90g", 
+    "fisherPrice": "75g, 93g, 112g", 
+    "anglerPrice": "90g, 112g, 135g", 
+    "weather": "Rain", 
+    "location": "River (Town+Forest)", 
+    "time": "9am - 2am"
+  }, 
+  {
+    "name": "Lingcod", 
+    "season": "Winter", 
+    "basePrice": "120g, 150g, 180g", 
+    "fisherPrice": "150g, 187g, 225g", 
+    "anglerPrice": "180g, 225g, 270g", 
+    "weather": "Any", 
+    "location": "River (Town+Forest)Mountain Lake", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Halibut", 
+    "season": "Spring, Summer, Winter", 
+    "basePrice": "80g, 100g, 120g", 
+    "fisherPrice": "100g, 125g, 150g", 
+    "anglerPrice": "120g, 150g, 180g", 
+    "weather": "Any", 
+    "location": "Ocean", 
+    "time": "6am - 11am7pm - 2am"
+  }, 
+  {
+    "name": "Woodskip", 
+    "season": "All Seasons", 
+    "basePrice": "75g, 93g, 112g", 
+    "fisherPrice": "93g, 117g, 140g", 
+    "anglerPrice": "112g, 140g, 168g", 
+    "weather": "Any", 
+    "location": "Secret Woods Pond", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Void Salmon", 
+    "season": "All Seasons", 
+    "basePrice": "150g, 187g, 225g", 
+    "fisherPrice": "187g, 234g, 281g", 
+    "anglerPrice": "225g, 281g, 337g", 
+    "weather": "Any", 
+    "location": "Witch's Swamp", 
+    "time": "Anytime"
+  }, 
+  {
+    "name": "Slimejack", 
+    "season": "All Seasons", 
+    "basePrice": "100g, 125g, 150g", 
+    "fisherPrice": "125g, 156g, 187g", 
+    "anglerPrice": "150g, 187g, 225g", 
+    "weather": "Any", 
+    "location": "Mutant Bug Lair", 
+    "time": "Anytime"
+  }
+]
