@@ -376,6 +376,56 @@
   }, 
   {
     "category": "fish", 
+    "path": "/fish/Lobster", 
+    "name": "Lobster"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Clam", 
+    "name": "Clam"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Crayfish", 
+    "name": "Crayfish"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Crab", 
+    "name": "Crab"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Cockle", 
+    "name": "Cockle"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Mussel", 
+    "name": "Mussel"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Shrimp", 
+    "name": "Shrimp"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Snail", 
+    "name": "Snail"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Periwinkle", 
+    "name": "Periwinkle"
+  }, 
+  {
+    "category": "fish", 
+    "path": "/fish/Oyster", 
+    "name": "Oyster"
+  }, 
+  {
+    "category": "fish", 
     "path": "/fish/Midnight Squid", 
     "name": "Midnight Squid"
   }, 
@@ -413,5 +463,10 @@
     "category": "fish", 
     "path": "/fish/Mutant Carp", 
     "name": "Mutant Carp"
+  },
+  {
+    "category": "shops", 
+    "path": "/shops/shop-details/ranch", 
+    "name": "Marine's Ranch"
   }
 ]
