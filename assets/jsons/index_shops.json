@@ -1,0 +1,22 @@
+[
+  {
+    "category": "shops", 
+    "path": "/shops/shop-details/Blacksmith", 
+    "name": "Blacksmith"
+  },
+  {
+    "category": "shops", 
+    "path": "/shops/shop-details/Carpenter", 
+    "name": "Carpenter's Shop"
+  },
+  {
+    "category": "shops", 
+    "path": "/shops/shop-details/General", 
+    "name": "Pierre's General Store"
+  },
+  {
+    "category": "shops", 
+    "path": "/shops/shop-details/ranch", 
+    "name": "Marine's Ranch"
+  }
+]
